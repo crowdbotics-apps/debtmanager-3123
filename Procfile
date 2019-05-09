@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT debtmanager_3123.wsgi:application
